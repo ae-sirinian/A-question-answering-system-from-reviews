@@ -1,1 +1,8 @@
-data/*
+data/Centroids/*
+data/DF_models/*
+data/Free_data_from_Yelp/*
+data/Free_data_from_Yelp_preprocessed/*
+data/IWCS/*
+data/TF-IDF_models/*
+data/Word2vec_from_Google/*
+data/yelp-dataset/*
