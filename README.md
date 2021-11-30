@@ -10,4 +10,6 @@ After the creation of our system our next task is to evaluate our system. For th
 
 Finally we show same examples of our system’s answers, make conclusions about our system’s algorithms, conclude on the best one and talk about possible future work. Our results show that by choosing **Yelp’s Reviews with the WCS retrieval model and without the BiDAF model our system generates the best answers.**
 
+![Preprocess1](https://user-images.githubusercontent.com/10975341/144014570-4232695f-58ed-46d2-b949-40be1fdb784f.png)
 ![Compute1](https://user-images.githubusercontent.com/10975341/144014105-c06c357a-2a85-40cb-ae94-207a89d9cb32.png)
+![Pass1](https://user-images.githubusercontent.com/10975341/144014624-f9e53c5a-6263-43eb-bb86-b99179e1bcd0.png)
