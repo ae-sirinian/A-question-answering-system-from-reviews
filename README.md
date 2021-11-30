@@ -9,3 +9,5 @@ The question answering system is constructed by many parts. The **Preparatory st
 After the creation of our system our next task is to evaluate our system. For this task we have collected a bunch of questions and answers from Yelp’s community. With these questions we generate a sufficient number of answers by using all possible combinations of Corpus files, retrieval models and answers’ generation ways. After generating our answers, we have evaluated them with two evaluation strategies and by using a number of evaluation metrics. The evaluation strategies are the **Evaluation based on Yelp’s answers** and the **Evaluation based on manual labeling**, and the evaluation metrics are the **MRR**, **MAP**, **NDCG** and **DCG**.
 
 Finally we show same examples of our system’s answers, make conclusions about our system’s algorithms, conclude on the best one and talk about possible future work. Our results show that by choosing **Yelp’s Reviews with the WCS retrieval model and without the BiDAF model our system generates the best answers.**
+
+![Compute1](https://user-images.githubusercontent.com/10975341/144014105-c06c357a-2a85-40cb-ae94-207a89d9cb32.png)
